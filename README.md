@@ -28,3 +28,11 @@
 # Training Sites
  > Solved 사이트가 백준 저지 사이트와 연동되어, 자신의 랭크 티어를 게임 처럼 부여하고 성취감을 극대화 해주는 역할.
 - [Solved](https://solved.ac)
+
+## 분류별 Repo
++ [그리디 알고리즘](https://github.com/Researching-Algorithms-For-Us/Greedy)
+
+# 일정
+
+## Greedy 기초, 복잡도 이론
+  + 2021.04.24 19:00
