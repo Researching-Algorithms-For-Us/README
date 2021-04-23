@@ -10,6 +10,7 @@
 
 1. Using :
    해당 [스크립트](https://jsfiddle.net/8ndx694g/)를 참조하시길 바랍니다.
+   수식 마크다운 작성이 어려우실 경우 다음 [스크립트](https://www.codecogs.com/latex/eqneditor.php)를 참조하시길 바랍니다.
 
    1. basic
 
