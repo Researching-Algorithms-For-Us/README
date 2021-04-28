@@ -83,3 +83,8 @@ void PowerSet(int[] arr, bool[] visited, int targetdepth, int depth)
     PowerSet(arr, visited, targetdepth, depth + 1);
 }
 ```
+
+
+## 예제
+
+[백준 2309](https://www.acmicpc.net/problem/2309)
