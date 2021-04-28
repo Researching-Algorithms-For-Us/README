@@ -25,6 +25,9 @@
 - 스터디인원의 코드 발표가 끝난후 해당 내용에 대해 장단점을 토의한다.
 - 언어별의 상이성이 존재하기 때문에 해당 부분은 모르면 그 언어의 구조해 대해 공부한다.(개인)
 
+## 도움 되는 자료
+- [바킹독의 실전 ](https://github.com/encrypted-def/basic-algo-lecture)
+
 # Training Sites
  > Solved 사이트가 백준 저지 사이트와 연동되어, 자신의 랭크 티어를 게임 처럼 부여하고 성취감을 극대화 해주는 역할.
 - [Solved](https://solved.ac)
