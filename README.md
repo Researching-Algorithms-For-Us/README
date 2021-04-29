@@ -28,6 +28,12 @@
 ## 도움 되는 자료
 - [바킹독의 실전 ](https://github.com/encrypted-def/basic-algo-lecture)
 
+
+### 수학 정리
+
+- [부분집합](./CppGuild/PowerSet.md)
+- [소수](./CppGuild/PrimeNumber.md)
+
 # Training Sites
  > Solved 사이트가 백준 저지 사이트와 연동되어, 자신의 랭크 티어를 게임 처럼 부여하고 성취감을 극대화 해주는 역할.
 - [Solved](https://solved.ac)
