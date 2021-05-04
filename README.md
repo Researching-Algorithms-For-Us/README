@@ -27,8 +27,7 @@
 
 ## 도움 되는 자료
 - [바킹독의 실전 ](https://github.com/encrypted-def/basic-algo-lecture)
-
-
+- 
 ### 수학 정리
 
 - [부분집합](./CppGuild/PowerSet.md)
