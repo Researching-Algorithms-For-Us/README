@@ -1,0 +1,12 @@
+[submodule "Complextiy"]
+	path = Complextiy
+	url = https://github.com/Researching-Algorithms-For-Us/1.Complextiy
+[submodule "Greedy"]
+	path = Greedy
+	url = https://github.com/Researching-Algorithms-For-Us/3.Greedy
+[submodule "Implementation"]
+	path = Implementation
+	url = https://github.com/Researching-Algorithms-For-Us/4.Implementation
+[submodule "BFS-DFS"]
+	path = BFS-DFS
+	url = https://github.com/Researching-Algorithms-For-Us/5.BFS-DFS
